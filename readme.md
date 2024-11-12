@@ -7,7 +7,8 @@ Firstly, some python packages are needed for the app to work properly.
 
 pip install prettytable
 pip install pandas
-pip install psycopg2
+pip install psycopg2 
+
 Then, PostgreSQL needs to be installed on your computer, with an empty database already created. After downloading the files, database.ini must be edited with the right properties as follows:
 
 [postgresql]
